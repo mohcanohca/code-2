@@ -6,7 +6,7 @@
 /* globals swan */
 
 App({
-    // new content 1
+    // new content 2
     onLaunch(options) {
         // do something when launch
     },
